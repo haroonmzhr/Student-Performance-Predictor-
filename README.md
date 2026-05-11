@@ -1,12 +1,12 @@
-# 📚 Student Performance Predictor
+**Student Performance Predictor**
 
-**Course:** Introduction to Data Science (Fall 2025)
-**Project Type:** Semester Project — Data-Driven Insights Prototype
+
+**Project Type:** Data-Driven Insights Prototype
 **Domain:** Education Analytics
 
 ---
 
-## 🎯 What this project does
+What this project does
 
 Predicts whether a student will **pass or fail** the final math exam based on background factors (study time, past failures, absences, family education, etc.) — using the **UCI Student Performance** dataset of 395 Portuguese students.
 
@@ -23,7 +23,7 @@ The deliverables match every item in the assignment rubric:
 
 ---
 
-## 🚀 How to run (3 commands)
+How to run (3 commands)
 
 ### 1. Install dependencies
 
@@ -54,7 +54,7 @@ Your browser opens automatically at `http://localhost:8501`.
 
 ---
 
-## 📁 Project Structure
+Project Structure
 
 ```
 IDS PROJECT/
@@ -80,7 +80,7 @@ IDS PROJECT/
 
 ---
 
-## 📚 Concepts Covered (great for VIVA prep)
+Concepts Covered 
 
 | Concept                  | Where in the code                  | One-line explanation                                              |
 | ------------------------ | ---------------------------------- | ----------------------------------------------------------------- |
@@ -108,7 +108,7 @@ IDS PROJECT/
 
 ---
 
-## 💡 Three Key Insights from the Data
+Three Key Insights from the Data
 
 1. **Past failures are the strongest predictor of future failure.** Students with 1+ past failures average 2–3 grade points lower.
 2. **Attendance matters a lot.** Beyond ~25 absences, almost no student passes.
@@ -116,14 +116,3 @@ IDS PROJECT/
 
 ---
 
-## 🤝 Group Members
-
-- **[Your Name]** — Data preprocessing, EDA, visualizations
-- **[Partner's Name]** — Modeling, evaluation, Streamlit dashboard
-
-*(Adjust contributions to match what each person actually did.)*
-
-## 🔗 Links to add to your report
-
-- **GitHub Repository:** _add link after pushing_
-- **LinkedIn Demo Video:** _add link after posting_
